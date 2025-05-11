@@ -1,8 +1,11 @@
-# Hi there, Enmanuel is Here 👋
+# 💻 Hi there, Enmanuel is Here 
 
+**`Junior Software Developer | Systems Development & Automation (Python)`**
+
+Ingeniero de software enfocado en crear soluciones robustas mediante automatización y desarrollo de sistemas con Python. Construyo proyectos desde cero, desde la planificación y diseño hasta la implementación de código que resuelve problemas del mundo real.
+
+Siempre aprendiendo, siempre construyendo.
 <!--
-**mxnueh/mxnueh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
