@@ -6,7 +6,14 @@ Junior software developer enfocado en crear soluciones robustas mediante automat
 
 Siempre aprendiendo, siempre construyendo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EnmanuelN-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portafolio-Visítame-ff69b4?style=for-the-badge&logo=google-chrome)](https://tu-portafolio.com)
-[![Gmail](https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail)](mailto:tuemail@gmail.com)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/enmanueln" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-EnmanuelN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tuportafolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Visítame-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:tuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
