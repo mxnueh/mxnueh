@@ -2,7 +2,7 @@
 
 **`Junior Software Developer | Systems Development & Automation (Python)`**
 
-Ingeniero de software enfocado en crear soluciones robustas mediante automatización y desarrollo de sistemas con Python. Construyo proyectos desde cero, desde la planificación y diseño hasta la implementación de código que resuelve problemas del mundo real.
+Junior software developer enfocado en crear soluciones robustas mediante automatización y desarrollo de sistemas con Python. Construyo proyectos desde cero, desde la planificación y diseño hasta la implementación de código que resuelve problemas del mundo real.
 
 Siempre aprendiendo, siempre construyendo.
 <!--
