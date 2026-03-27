@@ -2,10 +2,10 @@
 
 # Enmanuel Nunez Matias 👋
 
-### Full Stack Developer · Automatización · SaaS
+### Full Stack Developer · Automatización · Sistemas
 
 <p>
-  Desarrollador enfocado en construir sistemas backend y automatizar procesos reales.<br/>
+  Desarrollador enfocado en construir aplicaciones Full Stack y automatizar procesos reales.<br/>
   Trabajo desde la idea hasta la implementación, priorizando código claro y soluciones funcionales.
 </p>
 
