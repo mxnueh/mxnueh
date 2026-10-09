@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 452" width="1000" height="452" role="img" aria-label="Terminal con resumen: Enmanuel Nunez Matias, desarrollador Full Stack, estudiante de Desarrollo de Software en ITLA">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080d1c"/><stop offset="1" stop-color="#111a3a"/></linearGradient>
+  <clipPath id="card"><rect width="1000" height="452" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="1000" height="452" fill="url(#bg)"/>
+  <rect width="1000" height="44" fill="#fff" fill-opacity=".05"/>
+  <circle cx="26" cy="22" r="6.5" fill="#ff5f57"/><circle cx="48" cy="22" r="6.5" fill="#febc2e"/><circle cx="70" cy="22" r="6.5" fill="#28c840"/>
+  <text x="500.0" y="27" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#64748b">enmanuel@rd — ~/sobre-mi</text>
+  
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.35s" fill="freeze"/>
+    <text x="36" y="96" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#2dd4bf">$</text>
+    <text x="58" y="96" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#e2e8f0">whoami</text>
+    <text x="58" y="124" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#94a3b8">Enmanuel Nunez Matias</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.35s" fill="freeze"/>
+    <text x="36" y="150" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#2dd4bf">$</text>
+    <text x="58" y="150" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#e2e8f0">cat rol.txt</text>
+    <text x="58" y="178" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#94a3b8">Desarrollador Full Stack · web y móvil</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.35s" fill="freeze"/>
+    <text x="36" y="204" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#2dd4bf">$</text>
+    <text x="58" y="204" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#e2e8f0">cat estudios.txt</text>
+    <text x="58" y="232" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#94a3b8">Desarrollo de Software — ITLA</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.35s" fill="freeze"/>
+    <text x="36" y="258" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#2dd4bf">$</text>
+    <text x="58" y="258" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#e2e8f0">cat enfoque.txt</text>
+    <text x="58" y="286" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#94a3b8">sistemas backend completos · automatización · código limpio</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="3.3s" dur="0.35s" fill="freeze"/>
+    <text x="36" y="312" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#2dd4bf">$</text>
+    <text x="58" y="312" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#e2e8f0">cat logros.txt</text>
+    <text x="58" y="340" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#94a3b8">NASA Space Apps 2025  ·  NASA HERC 2025</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="4.0s" dur="0.35s" fill="freeze"/>
+    <text x="36" y="366" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#2dd4bf">$</text>
+    <text x="58" y="366" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#e2e8f0">echo $FILOSOFIA</text>
+    <text x="58" y="394" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#f59e0b">"No aprendo herramientas por aprender: las uso para construir soluciones."</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="4.7s" dur="0.2s" fill="freeze"/>
+    <text x="36" y="420" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#2dd4bf">$</text>
+    <rect x="58" y="404" width="10" height="21" fill="#2dd4bf"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/></rect>
+  </g>
+  <rect x="0" y="447" width="333.3" height="5" fill="#002d62"/><rect x="333.3" y="447" width="333.3" height="5" fill="#f1f5f9"/><rect x="666.7" y="447" width="334.3" height="5" fill="#ce1126"/>
+</g>
+<rect x=".5" y=".5" width="999" height="451" rx="16" fill="none" stroke="#fff" stroke-opacity=".1"/>
+</svg>

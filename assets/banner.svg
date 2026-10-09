@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Enmanuel Nunez Matias, desarrollador Full Stack">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080d1c"/><stop offset="1" stop-color="#111a3a"/></linearGradient>
+  <linearGradient id="gText" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="560" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset=".6" stop-color="#60a5fa"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  <linearGradient id="gLine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  <radialGradient id="glowA" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#2dd4bf" stop-opacity=".35"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowB" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".38"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+  <clipPath id="card"><rect width="1000" height="340" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="1000" height="340" fill="url(#bg)"/>
+  <rect width="1000" height="340" fill="url(#grid)"/>
+  <circle cx="160" cy="80" r="230" fill="url(#glowA)">
+    <animate attributeName="cx" values="160;260;160" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="860" cy="250" r="260" fill="url(#glowB)">
+    <animate attributeName="cy" values="250;170;250" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  
+  <path d="M640 70 H720 L750 100 H880 L910 70 H960" fill="none" stroke="url(#gLine)" stroke-width="2" stroke-dasharray="3 9" opacity=".55">
+    <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.6s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="640" cy="70" r="5" fill="#080d1c" stroke="#2dd4bf" stroke-width="2"/>
+  <circle cx="960" cy="70" r="5" fill="#080d1c" stroke="#8b5cf6" stroke-width="2">
+    <animate attributeName="r" values="5;8;5" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.5" fill="#fff"><animateMotion path="M640 70 H720 L750 100 H880 L910 70 H960" dur="5.0s" begin="0.0s" repeatCount="indefinite"/></circle>
+  <path d="M700 150 H770 L800 180 H930" fill="none" stroke="url(#gLine)" stroke-width="2" stroke-dasharray="3 9" opacity=".55">
+    <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.6s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="700" cy="150" r="5" fill="#080d1c" stroke="#2dd4bf" stroke-width="2"/>
+  <circle cx="930" cy="180" r="5" fill="#080d1c" stroke="#8b5cf6" stroke-width="2">
+    <animate attributeName="r" values="5;8;5" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.5" fill="#fff"><animateMotion path="M700 150 H770 L800 180 H930" dur="4.0s" begin="1.2s" repeatCount="indefinite"/></circle>
+  <path d="M760 240 H830 L860 270 H960" fill="none" stroke="url(#gLine)" stroke-width="2" stroke-dasharray="3 9" opacity=".55">
+    <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.6s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="760" cy="240" r="5" fill="#080d1c" stroke="#2dd4bf" stroke-width="2"/>
+  <circle cx="960" cy="270" r="5" fill="#080d1c" stroke="#8b5cf6" stroke-width="2">
+    <animate attributeName="r" values="5;8;5" dur="2.4s" begin="2.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.5" fill="#fff"><animateMotion path="M760 240 H830 L860 270 H960" dur="4.5s" begin="2.1s" repeatCount="indefinite"/></circle>
+  <text x="60" y="68" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#2dd4bf" letter-spacing="2">// PORTAFOLIO · REPÚBLICA DOMINICANA</text>
+  <text x="58" y="150" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="68" font-weight="800" fill="#f8fafc" letter-spacing="-1">Enmanuel</text>
+  <text x="58" y="220" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="68" font-weight="800" fill="url(#gText)" letter-spacing="-1">Nunez Matias</text>
+  <text x="60" y="258" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="18" fill="#94a3b8" letter-spacing="1.2">Full Stack Developer  ·  Automatización  ·  Sistemas</text>
+  <text x="60" y="303" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#2dd4bf">&gt;</text>
+  
+  <clipPath id="clip0"><rect x="84" y="279" height="34" width="0">
+    <animate attributeName="width" values="0;588;588;0;0" keyTimes="0.0000;0.1467;0.2800;0.3200;1.0000" dur="15.0s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <g clip-path="url(#clip0)">
+    <text x="84" y="303" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#e2e8f0" textLength="588" lengthAdjust="spacingAndGlyphs">construyo sistemas que resuelven problemas reales</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0.0000;0.0010;0.3200;0.3207;1.0000" dur="15.0s" repeatCount="indefinite"/>
+    <rect y="284" width="10" height="24" fill="#2dd4bf" x="84">
+      <animate attributeName="x" values="84;672;672;84;84" keyTimes="0.0000;0.1467;0.2800;0.3200;1.0000" dur="15.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+  </g>
+  <clipPath id="clip1"><rect x="84" y="279" height="34" width="0">
+    <animate attributeName="width" values="0;0;672;672;0;0" keyTimes="0.0000;0.3333;0.4800;0.6133;0.6533;1.0000" dur="15.0s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <g clip-path="url(#clip1)">
+    <text x="84" y="303" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#e2e8f0" textLength="672" lengthAdjust="spacingAndGlyphs">del hardware al backend: Raspberry Pi, Flask, SQL Server</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3333;0.3340;0.6533;0.6540;1.0000" dur="15.0s" repeatCount="indefinite"/>
+    <rect y="284" width="10" height="24" fill="#2dd4bf" x="84">
+      <animate attributeName="x" values="84;84;756;756;84;84" keyTimes="0.0000;0.3333;0.4800;0.6133;0.6533;1.0000" dur="15.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+  </g>
+  <clipPath id="clip2"><rect x="84" y="279" height="34" width="0">
+    <animate attributeName="width" values="0;0;504;504;0;0" keyTimes="0.0000;0.6667;0.8133;0.9467;0.9867;1.0000" dur="15.0s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <g clip-path="url(#clip2)">
+    <text x="84" y="303" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#e2e8f0" textLength="504" lengthAdjust="spacingAndGlyphs">automatizo procesos y escribo código claro</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6667;0.6673;0.9867;0.9873;1.0000" dur="15.0s" repeatCount="indefinite"/>
+    <rect y="284" width="10" height="24" fill="#2dd4bf" x="84">
+      <animate attributeName="x" values="84;84;588;588;84;84" keyTimes="0.0000;0.6667;0.8133;0.9467;0.9867;1.0000" dur="15.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+  </g>
+  <rect x="0" y="335" width="333.3" height="5" fill="#002d62"/><rect x="333.3" y="335" width="333.3" height="5" fill="#f1f5f9"/><rect x="666.7" y="335" width="334.3" height="5" fill="#ce1126"/>
+</g>
+<rect x=".5" y=".5" width="999" height="339" rx="20" fill="none" stroke="#fff" stroke-opacity=".1"/>
+</svg>

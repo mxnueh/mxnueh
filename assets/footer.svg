@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 172" width="1000" height="172" role="img" aria-label="Construyendo sistemas simples para resolver problemas reales">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080d1c"/><stop offset="1" stop-color="#111a3a"/></linearGradient>
+  <linearGradient id="gT" gradientUnits="userSpaceOnUse" x1="180" y1="0" x2="820" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  <clipPath id="card"><rect width="1000" height="172" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="1000" height="172" fill="url(#bg)"/>
+  <g fill="none" stroke-width="2">
+    <path d="M0 128 Q50 102 100 128 T200 128 Q250 102 300 128 T400 128 Q450 102 500 128 T600 128 Q650 102 700 128 T800 128 Q850 102 900 128 T1000 128 Q1050 102 1100 128 T1200 128 Q1250 102 1300 128 T1400 128 Q1450 102 1500 128 T1600 128 Q1650 102 1700 128 T1800 128 Q1850 102 1900 128 T2000 128 Q2050 102 2100 128 T2200 128" stroke="#2dd4bf" stroke-opacity=".35"><animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="9s" repeatCount="indefinite"/></path>
+    <path d="M0 144 Q50 124 100 144 T200 144 Q250 124 300 144 T400 144 Q450 124 500 144 T600 144 Q650 124 700 144 T800 144 Q850 124 900 144 T1000 144 Q1050 124 1100 144 T1200 144 Q1250 124 1300 144 T1400 144 Q1450 124 1500 144 T1600 144 Q1650 124 1700 144 T1800 144 Q1850 124 1900 144 T2000 144 Q2050 124 2100 144 T2200 144" stroke="#8b5cf6" stroke-opacity=".35"><animateTransform attributeName="transform" type="translate" from="-400 0" to="0 0" dur="12s" repeatCount="indefinite"/></path>
+  </g>
+  <text x="500.0" y="64" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="url(#gT)">Construyendo sistemas simples para resolver problemas reales.</text>
+  <text x="500.0" y="92" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#64748b" letter-spacing="2">HECHO EN REPÚBLICA DOMINICANA</text>
+  <rect x="0" y="167" width="333.3" height="5" fill="#002d62"/><rect x="333.3" y="167" width="333.3" height="5" fill="#f1f5f9"/><rect x="666.7" y="167" width="334.3" height="5" fill="#ce1126"/>
+</g>
+<rect x=".5" y=".5" width="999" height="171" rx="20" fill="none" stroke="#fff" stroke-opacity=".1"/>
+</svg>

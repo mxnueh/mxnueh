@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 374" width="1000" height="374" role="img" aria-label="Stack tecnológico: Python, JavaScript, TypeScript, C#, C++, React, HTML5, CSS3, Tailwind, Vite, Flask, FastAPI, Node.js, PHP, SQL Server, MySQL, Git, Linux, Raspberry Pi">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080d1c"/><stop offset="1" stop-color="#111a3a"/></linearGradient>
+  <clipPath id="card"><rect width="1000" height="374" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="1000" height="374" fill="url(#bg)"/>
+  <text x="36" y="62" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#64748b" letter-spacing="2">LENGUAJES</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.10s" dur="0.4s" fill="freeze"/>
+    <rect x="210" y="40" width="102" height="36" rx="18" fill="#0f172a" stroke="#4B8BBE" stroke-opacity=".45"/>
+    <circle cx="230" cy="58" r="5" fill="#4B8BBE"/>
+    <circle cx="230" cy="58" r="5" fill="#4B8BBE" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="0.10s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="0.10s" repeatCount="indefinite"/></circle>
+    <text x="244" y="63" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="50" lengthAdjust="spacingAndGlyphs">Python</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.18s" dur="0.4s" fill="freeze"/>
+    <rect x="324.4" y="40" width="136" height="36" rx="18" fill="#0f172a" stroke="#F7DF1E" stroke-opacity=".45"/>
+    <circle cx="344.4" cy="58" r="5" fill="#F7DF1E"/>
+    <circle cx="344.4" cy="58" r="5" fill="#F7DF1E" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="0.18s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="0.18s" repeatCount="indefinite"/></circle>
+    <text x="358.4" y="63" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="84" lengthAdjust="spacingAndGlyphs">JavaScript</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.26s" dur="0.4s" fill="freeze"/>
+    <rect x="472.4" y="40" width="136" height="36" rx="18" fill="#0f172a" stroke="#3B82F6" stroke-opacity=".45"/>
+    <circle cx="492.4" cy="58" r="5" fill="#3B82F6"/>
+    <circle cx="492.4" cy="58" r="5" fill="#3B82F6" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="0.26s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="0.26s" repeatCount="indefinite"/></circle>
+    <text x="506.4" y="63" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="84" lengthAdjust="spacingAndGlyphs">TypeScript</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.34s" dur="0.4s" fill="freeze"/>
+    <rect x="620.4" y="40" width="69" height="36" rx="18" fill="#0f172a" stroke="#9B4F96" stroke-opacity=".45"/>
+    <circle cx="640.4" cy="58" r="5" fill="#9B4F96"/>
+    <circle cx="640.4" cy="58" r="5" fill="#9B4F96" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="0.34s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="0.34s" repeatCount="indefinite"/></circle>
+    <text x="654.4" y="63" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="17" lengthAdjust="spacingAndGlyphs">C#</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.42s" dur="0.4s" fill="freeze"/>
+    <rect x="701.1999999999999" y="40" width="77" height="36" rx="18" fill="#0f172a" stroke="#5C9DD5" stroke-opacity=".45"/>
+    <circle cx="721.1999999999999" cy="58" r="5" fill="#5C9DD5"/>
+    <circle cx="721.1999999999999" cy="58" r="5" fill="#5C9DD5" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="0.42s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="0.42s" repeatCount="indefinite"/></circle>
+    <text x="735.1999999999999" y="63" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="25" lengthAdjust="spacingAndGlyphs">C++</text>
+  </g><line x1="36" y1="94" x2="964" y2="94" stroke="#fff" stroke-opacity=".05"/><text x="36" y="126" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#64748b" letter-spacing="2">WEB</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.50s" dur="0.4s" fill="freeze"/>
+    <rect x="210" y="104" width="94" height="36" rx="18" fill="#0f172a" stroke="#61DAFB" stroke-opacity=".45"/>
+    <circle cx="230" cy="122" r="5" fill="#61DAFB"/>
+    <circle cx="230" cy="122" r="5" fill="#61DAFB" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="0.50s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="0.50s" repeatCount="indefinite"/></circle>
+    <text x="244" y="127" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="42" lengthAdjust="spacingAndGlyphs">React</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.58s" dur="0.4s" fill="freeze"/>
+    <rect x="316.0" y="104" width="94" height="36" rx="18" fill="#0f172a" stroke="#E34F26" stroke-opacity=".45"/>
+    <circle cx="336.0" cy="122" r="5" fill="#E34F26"/>
+    <circle cx="336.0" cy="122" r="5" fill="#E34F26" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="0.58s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="0.58s" repeatCount="indefinite"/></circle>
+    <text x="350.0" y="127" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="42" lengthAdjust="spacingAndGlyphs">HTML5</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.66s" dur="0.4s" fill="freeze"/>
+    <rect x="422.0" y="104" width="86" height="36" rx="18" fill="#0f172a" stroke="#3B9AE1" stroke-opacity=".45"/>
+    <circle cx="442.0" cy="122" r="5" fill="#3B9AE1"/>
+    <circle cx="442.0" cy="122" r="5" fill="#3B9AE1" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="0.66s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="0.66s" repeatCount="indefinite"/></circle>
+    <text x="456.0" y="127" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="34" lengthAdjust="spacingAndGlyphs">CSS3</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.4s" fill="freeze"/>
+    <rect x="519.6" y="104" width="119" height="36" rx="18" fill="#0f172a" stroke="#38BDF8" stroke-opacity=".45"/>
+    <circle cx="539.6" cy="122" r="5" fill="#38BDF8"/>
+    <circle cx="539.6" cy="122" r="5" fill="#38BDF8" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="0.74s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="0.74s" repeatCount="indefinite"/></circle>
+    <text x="553.6" y="127" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="67" lengthAdjust="spacingAndGlyphs">Tailwind</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.82s" dur="0.4s" fill="freeze"/>
+    <rect x="650.8" y="104" width="86" height="36" rx="18" fill="#0f172a" stroke="#BD34FE" stroke-opacity=".45"/>
+    <circle cx="670.8" cy="122" r="5" fill="#BD34FE"/>
+    <circle cx="670.8" cy="122" r="5" fill="#BD34FE" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="0.82s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="0.82s" repeatCount="indefinite"/></circle>
+    <text x="684.8" y="127" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="34" lengthAdjust="spacingAndGlyphs">Vite</text>
+  </g><line x1="36" y1="158" x2="964" y2="158" stroke="#fff" stroke-opacity=".05"/><text x="36" y="190" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#64748b" letter-spacing="2">BACKEND</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.4s" fill="freeze"/>
+    <rect x="210" y="168" width="94" height="36" rx="18" fill="#0f172a" stroke="#E2E8F0" stroke-opacity=".45"/>
+    <circle cx="230" cy="186" r="5" fill="#E2E8F0"/>
+    <circle cx="230" cy="186" r="5" fill="#E2E8F0" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="0.90s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="0.90s" repeatCount="indefinite"/></circle>
+    <text x="244" y="191" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="42" lengthAdjust="spacingAndGlyphs">Flask</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.98s" dur="0.4s" fill="freeze"/>
+    <rect x="316.0" y="168" width="111" height="36" rx="18" fill="#0f172a" stroke="#14B8A6" stroke-opacity=".45"/>
+    <circle cx="336.0" cy="186" r="5" fill="#14B8A6"/>
+    <circle cx="336.0" cy="186" r="5" fill="#14B8A6" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="0.98s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="0.98s" repeatCount="indefinite"/></circle>
+    <text x="350.0" y="191" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="59" lengthAdjust="spacingAndGlyphs">FastAPI</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.06s" dur="0.4s" fill="freeze"/>
+    <rect x="438.8" y="168" width="111" height="36" rx="18" fill="#0f172a" stroke="#7CC66B" stroke-opacity=".45"/>
+    <circle cx="458.8" cy="186" r="5" fill="#7CC66B"/>
+    <circle cx="458.8" cy="186" r="5" fill="#7CC66B" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="1.06s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="1.06s" repeatCount="indefinite"/></circle>
+    <text x="472.8" y="191" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="59" lengthAdjust="spacingAndGlyphs">Node.js</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.14s" dur="0.4s" fill="freeze"/>
+    <rect x="561.6" y="168" width="77" height="36" rx="18" fill="#0f172a" stroke="#9A9ED6" stroke-opacity=".45"/>
+    <circle cx="581.6" cy="186" r="5" fill="#9A9ED6"/>
+    <circle cx="581.6" cy="186" r="5" fill="#9A9ED6" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="1.14s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="1.14s" repeatCount="indefinite"/></circle>
+    <text x="595.6" y="191" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="25" lengthAdjust="spacingAndGlyphs">PHP</text>
+  </g><line x1="36" y1="222" x2="964" y2="222" stroke="#fff" stroke-opacity=".05"/><text x="36" y="254" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#64748b" letter-spacing="2">DATOS</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.22s" dur="0.4s" fill="freeze"/>
+    <rect x="210" y="232" width="178" height="36" rx="18" fill="#0f172a" stroke="#E5484D" stroke-opacity=".45"/>
+    <circle cx="230" cy="250" r="5" fill="#E5484D"/>
+    <circle cx="230" cy="250" r="5" fill="#E5484D" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="1.22s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="1.22s" repeatCount="indefinite"/></circle>
+    <text x="244" y="255" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="126" lengthAdjust="spacingAndGlyphs">SQL Server 2022</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.30s" dur="0.4s" fill="freeze"/>
+    <rect x="400.0" y="232" width="94" height="36" rx="18" fill="#0f172a" stroke="#5B9BD0" stroke-opacity=".45"/>
+    <circle cx="420.0" cy="250" r="5" fill="#5B9BD0"/>
+    <circle cx="420.0" cy="250" r="5" fill="#5B9BD0" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="1.30s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="1.30s" repeatCount="indefinite"/></circle>
+    <text x="434.0" y="255" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="42" lengthAdjust="spacingAndGlyphs">MySQL</text>
+  </g><line x1="36" y1="286" x2="964" y2="286" stroke="#fff" stroke-opacity=".05"/><text x="36" y="318" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#64748b" letter-spacing="2">ENTORNO</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.38s" dur="0.4s" fill="freeze"/>
+    <rect x="210" y="296" width="77" height="36" rx="18" fill="#0f172a" stroke="#F05032" stroke-opacity=".45"/>
+    <circle cx="230" cy="314" r="5" fill="#F05032"/>
+    <circle cx="230" cy="314" r="5" fill="#F05032" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="1.38s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="1.38s" repeatCount="indefinite"/></circle>
+    <text x="244" y="319" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="25" lengthAdjust="spacingAndGlyphs">Git</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.46s" dur="0.4s" fill="freeze"/>
+    <rect x="299.2" y="296" width="94" height="36" rx="18" fill="#0f172a" stroke="#FCC624" stroke-opacity=".45"/>
+    <circle cx="319.2" cy="314" r="5" fill="#FCC624"/>
+    <circle cx="319.2" cy="314" r="5" fill="#FCC624" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="1.46s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="1.46s" repeatCount="indefinite"/></circle>
+    <text x="333.2" y="319" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="42" lengthAdjust="spacingAndGlyphs">Linux</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.54s" dur="0.4s" fill="freeze"/>
+    <rect x="405.2" y="296" width="153" height="36" rx="18" fill="#0f172a" stroke="#E8416E" stroke-opacity=".45"/>
+    <circle cx="425.2" cy="314" r="5" fill="#E8416E"/>
+    <circle cx="425.2" cy="314" r="5" fill="#E8416E" opacity=".5"><animate attributeName="r" values="5;10;5" dur="3s" begin="1.54s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="1.54s" repeatCount="indefinite"/></circle>
+    <text x="439.2" y="319" font-family="'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="101" lengthAdjust="spacingAndGlyphs">Raspberry Pi</text>
+  </g>
+  <rect x="0" y="369" width="333.3" height="5" fill="#002d62"/><rect x="333.3" y="369" width="333.3" height="5" fill="#f1f5f9"/><rect x="666.7" y="369" width="334.3" height="5" fill="#ce1126"/>
+</g>
+<rect x=".5" y=".5" width="999" height="373" rx="16" fill="none" stroke="#fff" stroke-opacity=".1"/>
+</svg>
