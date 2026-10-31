@@ -14,9 +14,3 @@
 
 
 
-## Let's connect
-
-If you have an idea, a process to automate, or a system to build, I'd like to hear about it.
-[LinkedIn](https://www.linkedin.com/in/enmanuel-nunez-matias-249560340/) · [Email](mailto:enmanuelnunezmatias@gmail.com)
-
-*Building simple systems that solve real problems.*
