@@ -6,11 +6,11 @@
 
 ---
 
-<img src="assets/Toolbox" alt="Toolbox" width="100%"/>
+<img src="assets/Toolbox.png" alt="Toolbox" width="100%"/>
 
 ---
 
-<img src="assets/Let's connect" alt="Let's connect" width="100%"/>
+<img src="assets/Let's connect.png" alt="Let's connect" width="100%"/>
 
 
 
